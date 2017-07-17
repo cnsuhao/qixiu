@@ -3,9 +3,6 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>登录页面</title>
-		<meta name="keywords" content="Bootstrap模版,Bootstrap模版下载,Bootstrap教程,Bootstrap中文" />
-		<meta name="description" content="站长素材提供Bootstrap模版,Bootstrap教程,Bootstrap中文翻译等相关Bootstrap插件下载" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<!-- basic styles -->
 
@@ -41,6 +38,8 @@
 		<![endif]-->
 	</head>
 
+
+
 	<body class="login-layout">
 		<div class="main-container">
 			<div class="main-content">
@@ -50,10 +49,10 @@
 							<div class="center">
 								<h1>
 									<i class="icon-leaf green"></i>
-									<span class="red">Ace</span>
-									<span class="white">Application</span>
+									<span class="red">奇秀</span>
+									<span class="white">直播管理</span>
 								</h1>
-								<h4 class="blue">&copy; Company Name</h4>
+								<h4 class="blue">&copy; 奇秀</h4>
 							</div>
 
 							<div class="space-6"></div>
